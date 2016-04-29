@@ -1,2 +1,5 @@
 # Binary-Search-Tree
-All sorts of functions performed on Binary Search Trees (BST). Including add, delete, modify, conversion to Association List, selection of data
+All sorts of functions performed on Binary Search Trees (BST).  
+Functions include add, delete, modify, conversion to Association List (AL), selection of values.  
+**Written in Racket (formerly PLT Scheme).**  
+Thoroughly tested.
